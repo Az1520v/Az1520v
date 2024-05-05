@@ -5,7 +5,9 @@
 
 - 🌱 今勉強中の言語 **Objective-C , JavaScript , PHP**
 
-- 👨‍💻 Discord [Az1520v](Az1520v)
+
+- ![image](https://github.com/Az1520v/Az1520v/assets/130766351/45dbfd21-20a1-4018-ae47-5b59b1b74101)
+ Discord ( X ) **Az1520_**
 
 - 📫 Twitter ( X ) **Az1520_**
 
