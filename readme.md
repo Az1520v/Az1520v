@@ -6,7 +6,7 @@
 
 - 🌱 今勉強中の言語 **Objective-C , JavaScript **
 
-- ⚡ Discord ( X ) **Az1520v**
+- ⚡ Discord **Az1520v**
 
 - 📫 Twitter ( X ) **Az1520_**
 
