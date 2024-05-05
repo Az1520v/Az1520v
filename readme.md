@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Az1520</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">日本人です。。iOSの解析してます！！</h3>
 
 <p align="left"> <a href="https://twitter.com/az1520_" target="blank"><img src="https://img.shields.io/twitter/follow/az1520_?logo=twitter&style=for-the-badge" alt="az1520_" /></a> </p>
 
-![gawr gura by az](https://github.com/Az1520v/Az1520v/assets/130766351/87e52c45-3181-409a-b3e6-f597b01ab508)
 
 - 🌱 今勉強中の言語 **Objective-C , JavaScript **
 
@@ -12,3 +11,4 @@
 - 📫 Twitter ( X ) **Az1520_**
 
 
+![gawr gura by az](https://github.com/Az1520v/Az1520v/assets/130766351/87e52c45-3181-409a-b3e6-f597b01ab508)
