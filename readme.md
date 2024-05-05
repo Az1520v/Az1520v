@@ -11,4 +11,5 @@
 - 📫 Twitter ( X ) **Az1520_**
 
 
-![327990295-87e52c45-3181-409a-b3e6-f597b01ab508](https://github.com/Az1520v/Az1520v/assets/130766351/898f05a9-5fcb-4984-9f2e-0650283b0e8a)
+
+![327990295-87e52c45-3181-409a-b3e6-f597b01ab508](https://github.com/Az1520v/Az1520v/assets/130766351/db182291-5844-4e76-a0f5-da9eeb8361de)
