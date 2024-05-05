@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  iOSでの解析してます。h5ggの製作者、公式サーバー管理者してます
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
