@@ -11,4 +11,4 @@
 - 📫 Twitter ( X ) **Az1520_**
 
 
-![gawr gura by az](https://github.com/Az1520v/Az1520v/assets/130766351/87e52c45-3181-409a-b3e6-f597b01ab508)
+![gawr gura by az](https://github.com/Az1520v/Az1520v/assets/130766351/4f70611e-7e09-47cc-adda-f065e6f69449)
