@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/az1520_" target="blank"><img src="https://img.shields.io/twitter/follow/az1520_?logo=twitter&style=for-the-badge" alt="az1520_" /></a> </p>
 
 
-- 🌱 今勉強中の言語 **Objective-C , JavaScript **
+- 🌱 今勉強中の言語 **Objective-C **
 
 - ⚡ Discord **Az1520v**
 
